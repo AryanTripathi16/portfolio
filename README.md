@@ -45,9 +45,9 @@ You can view my resume [here](resume.html).
 
 Feel free to reach out to me through the following channels:
 
-- **Email**: [piyush@example.com](mailto:piyushdubey2613@example.com)
-- **LinkedIn**: [Aryan Tripathi](https://www.linkedin.com/in/piyush-dubey-70183429a)
-- **GitHub**: [piyushdubey](https://github.com/piyushdubey26)
+- **Email**: [Aryan Tripathi](mailto:aryantripathi82998500@gmail.com)
+- **LinkedIn**: [Aryan Tripathi](https://www.linkedin.com/in/aryan-tripathi-527ba2300)
+- **GitHub**: [Aryan Tripathi](https://github.com/AryanTripathi16)
 
 ## Installation
 
@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/piyushdubey/portfolio.git
+    git clone https://github.com/AryanTripathi16/portfolio.git
     ```
 
 2. Navigate to the project directory:
